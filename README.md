@@ -1,5 +1,7 @@
 # ember-map-with-default
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/locks/ember-map-with-default.svg)](https://greenkeeper.io/)
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
